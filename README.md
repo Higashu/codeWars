@@ -109,3 +109,9 @@ La solution à tous les katas que j'ai résolue sur le site [code wars](https://
 * JavaScript : [Solution](https://github.com/Higashu/codeWars/blob/master/JavaScript/Decode_the_Morse_code.js)
 
 * [Lien vers le kata](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+
+## Calculator - 3 kyu
+
+* JavaScript : [Solution](https://github.com/Higashu/codeWars/blob/master/JavaScript/Calculator.js)
+
+* [Lien vers le kata](https://www.codewars.com/kata/5235c913397cbf2508000048)
